@@ -1,0 +1,5 @@
+-i https://pypi.org/simple
+click==8.1.7; python_version >= '3.7'
+pip==24.1.2; python_version >= '3.8'
+setuptools==70.3.0; python_version >= '3.8'
+shiv==1.0.6; python_version >= '3.6'
